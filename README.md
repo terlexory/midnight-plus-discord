@@ -60,7 +60,8 @@ DEV_OUTPUT_PATH=C:\Users\USERNAME\AppData\Roaming\Vencord\themes\midnight-dev.th
 
 ## credits
 
-@ryosiks and @._fatal for the fixed codeblocks\n
+@ryosiks and @._fatal for the fixed codeblocks
+
 original design inspired by <https://github.com/schnensch0/zelk>
 
 window controls inspired by <https://github.com/Dyzean/Tokyo-Night>
