@@ -1,6 +1,6 @@
 <img width=800 src="https://github.com/refact0r/midnight-discord/raw/master/assets/preview.png">
 
-# midnight
+# midnight+
 
 a dark, customizable discord theme.
 
@@ -60,6 +60,7 @@ DEV_OUTPUT_PATH=C:\Users\USERNAME\AppData\Roaming\Vencord\themes\midnight-dev.th
 
 ## credits
 
+@ryosiks and @._fatal for the fixed codeblocks
 original design inspired by <https://github.com/schnensch0/zelk>
 
 window controls inspired by <https://github.com/Dyzean/Tokyo-Night>
