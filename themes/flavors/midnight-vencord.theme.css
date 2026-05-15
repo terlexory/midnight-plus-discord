@@ -87,29 +87,12 @@ body {
     /* background and dark colors */
     --bg-1: hsl(20, 5%, 25%); /* dark buttons when clicked */ /* hsl(20, 5%, 25%) */
     --bg-2: #3c3836; /* dark buttons */
-<<<<<<< HEAD
-<<<<<<< HEAD
     --bg-3: hsl(20, 2%, 13%); /* spacing, secondary elements  */
     --bg-4: #1f1f1f; /* main background color */
-=======
-    --bg-3: hsl(20, 2%, 19%); /* spacing, secondary elements  */
-<<<<<<< HEAD
-    --bg-4: #ff0000; /* main background color #282828 */
->>>>>>> 6a4cba1 (test)
-=======
-=======
-    --bg-3: hsl(20, 2%, 13%); /* spacing, secondary elements  */
->>>>>>> 3e36237 (test)
-    --bg-4: #1f1f1f; /* main background color #282828 */
->>>>>>> 3df7a3b (test)
     --hover: hsla(20, 3%, 40%, 0.1); /* channels and buttons when hovered */
     --active: hsla(20, 3%, 40%, 0.2); /* channels and buttons when clicked or selected */
     --active-2: hsla(20, 3%, 40%, 0.3); /* extra state for transparent buttons */
     --message-hover: hsla(0, 0%, 0%, 0.1); /* messages when hovered */
-<<<<<<< HEAD
-
-=======
->>>>>>> 6a4cba1 (test)
 
     /* accent colors */
     --accent-1: var(--purple-1); /* links and other accent text */
